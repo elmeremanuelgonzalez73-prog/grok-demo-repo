@@ -1,0 +1,8 @@
+/* WhatsApp Web Clone Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
