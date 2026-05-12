@@ -1,6 +1,6 @@
 # WhatsApp Web Clone
 
-Clon moderno de WhatsApp Web construido con **Next.js 15**, TypeScript, Tailwind CSS y Supabase.
+Clon moderno de WhatsApp Web construido con **Next.js 15**, **TypeScript**, **Tailwind CSS** y **Supabase**.
 
 ## Tecnologías
 - Next.js 15 (App Router)
@@ -10,10 +10,10 @@ Clon moderno de WhatsApp Web construido con **Next.js 15**, TypeScript, Tailwind
 - Supabase (Auth + Realtime Database)
 - Lucide Icons
 
-## Features principales
+## Features
 - Autenticación con Supabase
 - Chats en tiempo real
 - Mensajes con estado (enviado, entregado, leído)
-- Sidebar responsive
+- Diseño responsive (mobile + desktop)
 - Dark mode
-- Emojis y adjuntos (próximamente)
+- Emojis y attachments (próximamente)
